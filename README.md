@@ -38,8 +38,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
-cd 姿态识别
+git clone https://github.com/2213918304/human-pose-detection.git
+cd human-pose-detection
 ```
 
 ### 2. 安装依赖
@@ -319,7 +319,8 @@ MIT License
 ## 作者
 
 **罗泽**
-- Email: ratku@qq.com
+- Email: 2213918304@qq.com
+- GitHub: https://github.com/2213918304
 
 ## 致谢
 
@@ -340,4 +341,4 @@ MIT License
 
 ---
 
-如有问题或建议，请联系：ratku@qq.com
+如有问题或建议，请联系：2213918304@qq.com
