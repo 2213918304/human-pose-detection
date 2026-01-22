@@ -1,0 +1,15 @@
+{
+  "video_source": 0,
+  "target_fps": 30,
+  "min_detection_confidence": 0.5,
+  "min_tracking_confidence": 0.5,
+  "classification_confidence_threshold": 0.6,
+  "show_landmarks": true,
+  "show_skeleton": true,
+  "show_bbox": true,
+  "show_label": true,
+  "save_video": false,
+  "output_video_path": "output.mp4",
+  "export_data": false,
+  "export_data_path": "detections.json"
+}

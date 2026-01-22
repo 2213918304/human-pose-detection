@@ -1,0 +1,19 @@
+# 人体姿态识别系统依赖包
+
+# 深度学习和计算机视觉
+ultralytics>=8.0.0        # YOLOv8
+mediapipe>=0.10.0         # MediaPipe Pose
+opencv-python>=4.8.0      # OpenCV
+numpy>=1.24.0             # 数值计算
+protobuf>=3.20.0,<4.0.0   # Protobuf (MediaPipe兼容版本)
+pillow>=10.0.0            # 图像处理和中文字体支持
+
+# 测试框架
+pytest>=7.4.0             # 单元测试
+hypothesis>=6.90.0        # 属性测试
+pytest-cov>=4.1.0         # 测试覆盖率
+
+# 开发工具
+black>=23.0.0             # 代码格式化
+flake8>=6.0.0             # 代码检查
+mypy>=1.5.0               # 类型检查
